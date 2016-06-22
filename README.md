@@ -10,9 +10,10 @@ Swift 3.0 Preview 1更新内容中文翻译 http://www.liangkun.info
 
 更新内容
 中文版本：
-·       SE-0002: 删除currying的func声明语法
-·       SE-0003: 函数参数中不再使用var关键字
-·       SE-0004: 移除自增运算符++和自减运算符—
+·SE-0002: 删除currying的func声明语法
+
+·SE-0003: 函数参数中不再使用var关键字
+·SE-0004: 移除自增运算符++和自减运算符—
 ·       SE-0005: 将Objective-C的API更好地接入到Swift中
 ·       SE-0006: 将API指南应用于标准库中
 ·       SE-0007: 移除C语言风格的for循环（条件与增量下）
